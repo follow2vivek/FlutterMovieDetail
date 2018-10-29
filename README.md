@@ -9,7 +9,8 @@ For help getting started with Flutter, view our online
 ## Classes used from Library
 
 [WidgetCarousel](https://github.com/jlouage/flutter-carousel-pro) <br />
-[SpinKitRipple](https://github.com/jogboms/flutter_spinkit)
+[SpinKitRipple](https://github.com/jogboms/flutter_spinkit) <br />
+[Movie Api](https://gist.githubusercontent.com/saniyusuf/406b843afdfb9c6a86e25753fe2761f4/raw/523c324c7fcc36efab8224f9ebb7556c09b69a14/Film.JSON)
 
 ## Screenshots
 <img src="./screenshot/ss1.png" height="500em"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./screenshot/ss2.png" height="500em"/>
