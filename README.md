@@ -10,7 +10,7 @@ For help getting started with Flutter, view our online
 
 [WidgetCarousel](https://github.com/jlouage/flutter-carousel-pro) <br />
 [SpinKitRipple](https://github.com/jogboms/flutter_spinkit) <br />
-[Movie Api](https://gist.githubusercontent.com/saniyusuf/406b843afdfb9c6a86e25753fe2761f4/raw/523c324c7fcc36efab8224f9ebb7556c09b69a14/Film.JSON)
+[Movie Api](https://gist.githubusercontent.com/saniyusuf/406b843afdfb9c6a86e25753fe2761f4/raw/523c324c7fcc36efab8224f9ebb7556c09b69a14/Film.JSON)<br />
 [StartRating](https://github.com/goops17/flutter_rating)
 
 ## Screenshots
