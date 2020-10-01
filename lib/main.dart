@@ -11,6 +11,7 @@ import 'package:movie_detail/custom/spin_kit_ripple.dart';
 void main() {
   runApp(MaterialApp(
     home: Home(),
+    // removes the debug banner
     debugShowCheckedModeBanner: false,
     theme: ThemeData(primarySwatch: Colors.deepOrange),
   ));
